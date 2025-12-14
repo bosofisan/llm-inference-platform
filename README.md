@@ -2,7 +2,7 @@
 
 ### Production-grad LLM serving with FastAPI, Kubernetes, Autoscaling, Streaming Responses, and Observability
 
-This project is a full end-to-end LLM inference platform that demonstrates real-world ML infrastructure patterns: streaming token responses, rate limiting, autoscaling, fault tolerance, observability, and secure containerized deployments. It runs on AWS EKS, local clusters, or any Kubernetes environment. 
+This project is a comprehensive end-to-end LLM inference platform that showcases real-world ML infrastructure patterns, including streaming token responses, rate limiting, autoscaling, fault tolerance, observability, and secure, containerized deployments. It runs on AWS EKS, local clusters, or any Kubernetes environment. 
 
 ## Key Features
 - #### FastAPI LLM inference API
@@ -158,7 +158,7 @@ Horizontal Pod Autoscaler:
 
 ## Why This Project Exists 
  
-This platform was built to demonstrate LLM serving infrastructure, scalable backend engineering, and Kubernetes production operations; the same patterns used by teams at Scale AI, OpenAI, Anthropic, and other ML infra-heavy companies. 
+Demonstrates production ML serving patterns: streaming, autoscaling, observability, rate limiting.
 
 It showcases:
 - Real streaming
